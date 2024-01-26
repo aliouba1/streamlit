@@ -3,5 +3,5 @@ pandas
 plotly
 scikit-learn
 firebase-admin
-searborn
+plotly
 openpyxl
